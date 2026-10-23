@@ -1,0 +1,130 @@
+﻿Ciudad / pueblo,País,Número de clubes,Latitud,Longitud,Origen coordenadas
+London,Inglaterra,14,51.50853,-0.12574,GeoDataKit/GeoNames – localidad (referencia publicada)
+Edinburgh,Escocia,4,55.95206,-3.19648,GeoDataKit/GeoNames – localidad (referencia publicada)
+Glasgow,Escocia,4,55.86515,-4.25763,GeoDataKit/GeoNames – localidad (referencia publicada)
+Belfast,Irlanda del Norte,4,54.59682,-5.92541,GeoDataKit/GeoNames – localidad (referencia publicada)
+Aberdeen,Escocia,2,57.16,-2.09,Aproximación urbana a partir de estadios; revisar centro
+Dundee,Escocia,2,56.47,-2.97,Aproximación urbana a partir de estadios; revisar centro
+Hamilton,Escocia,2,55.78,-4.06,Aproximación urbana a partir de estadios; revisar centro
+Cardiff,Gales,2,51.48,-3.18,GeoDataKit/GeoNames – localidad (referencia publicada)
+Birmingham,Inglaterra,2,52.48142,-1.89983,GeoDataKit/GeoNames – localidad (referencia publicada)
+Bristol,Inglaterra,2,51.45523,-2.59665,GeoDataKit/GeoNames – localidad (referencia publicada)
+Liverpool,Inglaterra,2,53.41058,-2.97794,GeoDataKit/GeoNames – localidad (referencia publicada)
+Manchester,Inglaterra,2,53.48095,-2.23743,GeoDataKit/GeoNames – localidad (referencia publicada)
+Nottingham,Inglaterra,2,52.94,-1.13,Aproximación urbana a partir de estadios; revisar centro
+Sheffield,Inglaterra,2,53.38297,-1.4659,GeoDataKit/GeoNames – localidad (referencia publicada)
+Stoke-on-Trent,Inglaterra,2,53.02,-2.18,Aproximación urbana a partir de estadios; revisar centro
+Airdrie,Escocia,1,55.86,-3.96,Aproximación urbana a partir de estadios; revisar centro
+Alloa,Escocia,1,56.12,-3.78,Aproximación urbana a partir de estadios; revisar centro
+Annan,Escocia,1,54.99,-3.26,Aproximación urbana a partir de estadios; revisar centro
+Arbroath,Escocia,1,56.55,-2.59,Aproximación urbana a partir de estadios; revisar centro
+Ayr,Escocia,1,55.47,-4.62,Aproximación urbana a partir de estadios; revisar centro
+Dingwall,Escocia,1,57.6,-4.42,Aproximación urbana a partir de estadios; revisar centro
+Dumbarton,Escocia,1,55.94,-4.56,Aproximación urbana a partir de estadios; revisar centro
+Dumfries,Escocia,1,55.07,-3.62,Aproximación urbana a partir de estadios; revisar centro
+Dunfermline,Escocia,1,56.08,-3.44,Aproximación urbana a partir de estadios; revisar centro
+East Kilbride,Escocia,1,55.76,-4.18,Aproximación de localidad; verificar con nomenclátor
+Elgin,Escocia,1,57.65,-3.32,Aproximación urbana a partir de estadios; revisar centro
+Falkirk,Escocia,1,56.01,-3.75,Aproximación urbana a partir de estadios; revisar centro
+Forfar,Escocia,1,56.65,-2.88,Aproximación urbana a partir de estadios; revisar centro
+Greenock,Escocia,1,55.94,-4.73,Aproximación urbana a partir de estadios; revisar centro
+Inverness,Escocia,1,57.5,-4.22,Aproximación urbana a partir de estadios; revisar centro
+Kelty,Escocia,1,56.13,-3.39,Aproximación de localidad; verificar con nomenclátor
+Kilmarnock,Escocia,1,55.6,-4.51,Aproximación urbana a partir de estadios; revisar centro
+Kirkcaldy,Escocia,1,56.1,-3.17,Aproximación urbana a partir de estadios; revisar centro
+Livingston,Escocia,1,55.89,-3.52,Aproximación urbana a partir de estadios; revisar centro
+Methil,Escocia,1,56.19,-3,Aproximación urbana a partir de estadios; revisar centro
+Montrose,Escocia,1,56.71,-2.46,Aproximación urbana a partir de estadios; revisar centro
+Motherwell,Escocia,1,55.78,-3.98,Aproximación urbana a partir de estadios; revisar centro
+Paisley,Escocia,1,55.85,-4.44,Aproximación urbana a partir de estadios; revisar centro
+Perth,Escocia,1,56.41,-3.48,Aproximación urbana a partir de estadios; revisar centro
+Peterhead,Escocia,1,57.51,-1.8,Aproximación urbana a partir de estadios; revisar centro
+Stenhousemuir,Escocia,1,56.03,-3.81,Aproximación urbana a partir de estadios; revisar centro
+Stirling,Escocia,1,56.12,-3.91,Aproximación urbana a partir de estadios; revisar centro
+Stranraer,Escocia,1,54.9,-5.01,Aproximación urbana a partir de estadios; revisar centro
+Ammanford,Gales,1,51.79,-3.99,Aproximación de localidad; verificar con nomenclátor
+Barry,Gales,1,51.4,-3.27,Aproximación de localidad; verificar con nomenclátor
+Bridgend,Gales,1,51.51,-3.58,Aproximación de localidad; verificar con nomenclátor
+Briton Ferry,Gales,1,51.63,-3.82,Aproximación de localidad; verificar con nomenclátor
+Broughton,Gales,1,53.17,-2.99,Aproximación de localidad; verificar con nomenclátor
+Caernarfon,Gales,1,53.14,-4.28,Aproximación de localidad; verificar con nomenclátor
+Clydach Vale,Gales,1,51.63,-3.47,Aproximación de localidad; verificar con nomenclátor
+Colwyn Bay,Gales,1,53.29,-3.73,Aproximación de localidad; verificar con nomenclátor
+Connah's Quay,Gales,1,53.22,-3.06,Aproximación de localidad; verificar con nomenclátor
+Flint,Gales,1,53.25,-3.13,Aproximación de localidad; verificar con nomenclátor
+Haverfordwest,Gales,1,51.8,-4.97,Aproximación de localidad; verificar con nomenclátor
+Holywell,Gales,1,53.27,-3.23,Aproximación de localidad; verificar con nomenclátor
+Llandudno,Gales,1,53.33,-3.83,Aproximación de localidad; verificar con nomenclátor
+Newport,Gales,1,51.59,-2.99,Aproximación urbana a partir de estadios; revisar centro
+Port Talbot,Gales,1,51.59,-3.78,Aproximación de localidad; verificar con nomenclátor
+Swansea,Gales,1,51.64,-3.93,Aproximación urbana a partir de estadios; revisar centro
+Wrexham,Gales,1,53.05,-2.99,Aproximación de localidad; verificar con nomenclátor
+Accrington,Inglaterra,1,53.77,-2.37,Aproximación urbana a partir de estadios; revisar centro
+Barnsley,Inglaterra,1,53.55,-1.47,Aproximación urbana a partir de estadios; revisar centro
+Birkenhead,Inglaterra,1,53.39337,-3.01479,GeoDataKit/GeoNames – localidad (referencia publicada)
+Blackburn,Inglaterra,1,53.73,-2.49,Aproximación urbana a partir de estadios; revisar centro
+Blackpool,Inglaterra,1,53.8,-3.05,Aproximación urbana a partir de estadios; revisar centro
+Bolton,Inglaterra,1,53.58,-2.54,Aproximación urbana a partir de estadios; revisar centro
+Bournemouth,Inglaterra,1,50.74,-1.84,Aproximación urbana a partir de estadios; revisar centro
+Bradford,Inglaterra,1,53.79391,-1.75206,GeoDataKit/GeoNames – localidad (referencia publicada)
+Brighton and Hove,Inglaterra,1,50.86,-0.08,Aproximación urbana a partir de estadios; revisar centro
+Burnley,Inglaterra,1,53.79,-2.23,Aproximación urbana a partir de estadios; revisar centro
+Burton upon Trent,Inglaterra,1,52.82,-1.63,Aproximación urbana a partir de estadios; revisar centro
+Cambridge,Inglaterra,1,52.21,0.15,Aproximación urbana a partir de estadios; revisar centro
+Cheltenham,Inglaterra,1,51.91,-2.06,Aproximación urbana a partir de estadios; revisar centro
+Chesterfield,Inglaterra,1,53.25,-1.43,Aproximación urbana a partir de estadios; revisar centro
+Cleethorpes,Inglaterra,1,53.56,-0.03,Aproximación de localidad; verificar con nomenclátor
+Colchester,Inglaterra,1,51.92,0.9,Aproximación urbana a partir de estadios; revisar centro
+Coventry,Inglaterra,1,52.40656,-1.51217,GeoDataKit/GeoNames – localidad (referencia publicada)
+Crawley,Inglaterra,1,51.1,-0.19,Aproximación urbana a partir de estadios; revisar centro
+Crewe,Inglaterra,1,53.09,-2.44,Aproximación urbana a partir de estadios; revisar centro
+Derby,Inglaterra,1,52.91,-1.45,Aproximación urbana a partir de estadios; revisar centro
+Doncaster,Inglaterra,1,53.51,-1.11,Aproximación urbana a partir de estadios; revisar centro
+Exeter,Inglaterra,1,50.73,-3.52,Aproximación urbana a partir de estadios; revisar centro
+Fleetwood,Inglaterra,1,53.92,-3.02,Aproximación urbana a partir de estadios; revisar centro
+Gillingham,Inglaterra,1,51.38,0.56,Aproximación urbana a partir de estadios; revisar centro
+High Wycombe,Inglaterra,1,51.63,-0.8,Aproximación urbana a partir de estadios; revisar centro
+Huddersfield,Inglaterra,1,53.65,-1.77,Aproximación urbana a partir de estadios; revisar centro
+Ipswich,Inglaterra,1,52.05,1.15,Aproximación urbana a partir de estadios; revisar centro
+Kingston upon Hull,Inglaterra,1,53.75,-0.37,Aproximación urbana a partir de estadios; revisar centro
+Leeds,Inglaterra,1,53.79648,-1.54785,GeoDataKit/GeoNames – localidad (referencia publicada)
+Leicester,Inglaterra,1,52.6386,-1.13169,GeoDataKit/GeoNames – localidad (referencia publicada)
+Lincoln,Inglaterra,1,53.23,-0.54,Aproximación de localidad; verificar con nomenclátor
+Luton,Inglaterra,1,51.88,-0.43,Aproximación urbana a partir de estadios; revisar centro
+Mansfield,Inglaterra,1,53.14,-1.2,Aproximación urbana a partir de estadios; revisar centro
+Middlesbrough,Inglaterra,1,54.58,-1.22,Aproximación urbana a partir de estadios; revisar centro
+Milton Keynes,Inglaterra,1,52.01,-0.73,Aproximación urbana a partir de estadios; revisar centro
+Newcastle upon Tyne,Inglaterra,1,54.98,-1.62,Aproximación urbana a partir de estadios; revisar centro
+Northampton,Inglaterra,1,52.24,-0.93,Aproximación urbana a partir de estadios; revisar centro
+Norwich,Inglaterra,1,52.62,1.31,Aproximación urbana a partir de estadios; revisar centro
+Oldham,Inglaterra,1,53.56,-2.13,Aproximación urbana a partir de estadios; revisar centro
+Oswestry,Inglaterra,1,52.86,-3.06,Aproximación de localidad; verificar con nomenclátor
+Oxford,Inglaterra,1,51.72,-1.21,Aproximación urbana a partir de estadios; revisar centro
+Peterborough,Inglaterra,1,52.56,-0.24,Aproximación urbana a partir de estadios; revisar centro
+Plymouth,Inglaterra,1,50.39,-4.15,Aproximación urbana a partir de estadios; revisar centro
+Portsmouth,Inglaterra,1,50.8,-1.06,Aproximación urbana a partir de estadios; revisar centro
+Preston,Inglaterra,1,53.77,-2.69,Aproximación urbana a partir de estadios; revisar centro
+Reading,Inglaterra,1,51.42,-0.98,Aproximación urbana a partir de estadios; revisar centro
+Rochdale,Inglaterra,1,53.62,-2.18,Aproximación urbana a partir de estadios; revisar centro
+Rotherham,Inglaterra,1,53.43,-1.36,Aproximación urbana a partir de estadios; revisar centro
+Salford,Inglaterra,1,53.49,-2.29,Aproximación de localidad; verificar con nomenclátor
+Shrewsbury,Inglaterra,1,52.69,-2.75,Aproximación urbana a partir de estadios; revisar centro
+Southampton,Inglaterra,1,50.91,-1.39,Aproximación urbana a partir de estadios; revisar centro
+Stevenage,Inglaterra,1,51.89,-0.19,Aproximación urbana a partir de estadios; revisar centro
+Stockport,Inglaterra,1,53.41,-2.16,Aproximación de localidad; verificar con nomenclátor
+Sunderland,Inglaterra,1,54.91,-1.39,Aproximación urbana a partir de estadios; revisar centro
+Swindon,Inglaterra,1,51.56,-1.77,Aproximación urbana a partir de estadios; revisar centro
+Walsall,Inglaterra,1,52.57,-1.99,Aproximación urbana a partir de estadios; revisar centro
+Watford,Inglaterra,1,51.65,-0.4,Aproximación urbana a partir de estadios; revisar centro
+West Bromwich,Inglaterra,1,52.51,-1.96,Aproximación urbana a partir de estadios; revisar centro
+Wigan,Inglaterra,1,53.55,-2.65,Aproximación urbana a partir de estadios; revisar centro
+Wolverhampton,Inglaterra,1,52.59,-2.13,Aproximación urbana a partir de estadios; revisar centro
+York,Inglaterra,1,53.96,-1.08,Aproximación de localidad; verificar con nomenclátor
+Ballymena,Irlanda del Norte,1,54.87,-6.27,Aproximación urbana a partir de estadios; revisar centro
+Bangor,Irlanda del Norte,1,54.66,-5.67,Aproximación de localidad; verificar con nomenclátor
+Carrickfergus,Irlanda del Norte,1,54.72,-5.8,Aproximación urbana a partir de estadios; revisar centro
+Coleraine,Irlanda del Norte,1,55.13,-6.66,Aproximación urbana a partir de estadios; revisar centro
+Dungannon,Irlanda del Norte,1,54.49,-6.75,Aproximación urbana a partir de estadios; revisar centro
+Larne,Irlanda del Norte,1,54.85,-5.83,Aproximación urbana a partir de estadios; revisar centro
+Limavady,Irlanda del Norte,1,55.05,-6.95,Aproximación de localidad; verificar con nomenclátor
+Portadown,Irlanda del Norte,1,54.41,-6.46,Aproximación urbana a partir de estadios; revisar centro
